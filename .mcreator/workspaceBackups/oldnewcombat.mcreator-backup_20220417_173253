@@ -1,0 +1,133 @@
+{
+  "mod_elements": [
+    {
+      "name": "Olddiamondsword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "olddiamondsword"
+    },
+    {
+      "name": "Oldwoodsword",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldwoodsword"
+    },
+    {
+      "name": "Oldstone",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldstone"
+    },
+    {
+      "name": "Oldgoldsword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldgoldsword"
+    },
+    {
+      "name": "Oldnetherright",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldnetherright"
+    },
+    {
+      "name": "Oldwoodaxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldwoodaxe"
+    },
+    {
+      "name": "Oldstoneaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldstoneaxe"
+    },
+    {
+      "name": "Oldironsword",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldironsword"
+    },
+    {
+      "name": "Oldironaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldironaxe"
+    },
+    {
+      "name": "Oldgoldaxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldgoldaxe"
+    },
+    {
+      "name": "Oldnetherrightaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oldnetherrightaxe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.oldnewcombat.oldnetherright": "Oldnetherright",
+      "item.oldnewcombat.oldgoldsword": "Oldgoldsword",
+      "item.oldnewcombat.oldwoodaxe": "Oldwoodaxe",
+      "item.oldnewcombat.oldstoneaxe": "Oldstoneaxe",
+      "item.oldnewcombat.oldwoodsword": "Oldwoodsword",
+      "item.oldnewcombat.oldgoldaxe": "Oldgoldaxe",
+      "item.oldnewcombat.olddiamondsword": "Olddiamondsword",
+      "item.oldnewcombat.oldironsword": "Oldironsword",
+      "item.oldnewcombat.oldironaxe": "Oldironaxe",
+      "item.oldnewcombat.oldstone": "Oldstone",
+      "item.oldnewcombat.oldnetherrightaxe": "Oldnetherrightaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "oldnewcombat",
+    "modName": "Oldnewcombat",
+    "version": "0.25",
+    "author": "Ramee, MCreator",
+    "websiteURL": "https://github.com/Rameez10-REAL/OldNewCombat",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "oldnewcombate",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.oldnewcombat",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
