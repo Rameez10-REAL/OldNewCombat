@@ -1,13 +1,14 @@
 modLoader="javafml"
 loaderVersion="[37,)"
-license="Academic Free License v3.0"
+license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="oldnewcombat"
-version="1.0.0"
+version="0.25"
 displayName="Oldnewcombat"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
+displayURL="https://github.com/Rameez10-REAL/OldNewCombat"
+logoFile="logo.png"
 authors="Ramee, MCreator"
 
 [[dependencies.oldnewcombat]]
