@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wooden_sword",
+    "customModelName": "Normal",
+    "name": "Oldwoodsword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 10.0,
+    "enchantability": 100,
+    "damageVsEntity": 2.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#5"
+      },
+      {
+        "value": "Blocks.OAK_WOOD"
+      },
+      {
+        "value": "Blocks.DARK_OAK_WOOD"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
